@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbazi\u002F[section]","\u002Fknowledge\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
