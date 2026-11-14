@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /admin/
 
-Sitemap: https://astrowed.amratlas.kz/sitemap.xml
+Sitemap: https://astrowed.mg-trener.com/sitemap.xml
